@@ -7,7 +7,7 @@ html, body {
 }
 
 .header {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('header.jpg');
+    /* background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('header.jpg'); */
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -65,7 +65,7 @@ html, body {
     margin-bottom: 40px;
 }
 
-.desc-sejarah {
+.desc-sejarah, .detail-price {
     text-align: justify;
     font-size: 1.4em;
     font-weight: 500;
@@ -115,7 +115,7 @@ span.title-footer {
         margin-top: 16px;
     }
 
-    .desc-sejarah {
+    .desc-sejarah, .detail-price {
         font-size: 1.1em;
     }
 
