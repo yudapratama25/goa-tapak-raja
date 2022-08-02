@@ -136,13 +136,13 @@
 
         <div class="flexbin flexbin-margin" data-aos="zoom-in" data-aos-duration="2100">
             <a href="#">
-                <img src="images/poto_1-min.jpg" data-toggle="lightbox" data-src="/goa-tapak-raja/images/poto_1-min.jpg" data-gallery="my-gallery"/>
+                <img src="images/poto_1-min.jpg" data-toggle="lightbox" data-src="/images/poto_1-min.jpg" data-gallery="my-gallery"/>
             </a>
             <a href="#">
                 <img src="https://media.suara.com/pictures/653x366/2022/05/29/goa-batu-tapak-raja-destinasi-wisata-baru-dikawasan-ikn-nusantara.jpg" data-toggle="lightbox" data-src="https://media.suara.com/pictures/653x366/2022/05/29/goa-batu-tapak-raja-destinasi-wisata-baru-dikawasan-ikn-nusantara.jpg" data-gallery="my-gallery"/>
             </a>
             <a href="#">
-                <img src="images/poto_11-min.jpg" data-toggle="lightbox" data-src="/goa-tapak-raja/images/poto_11-min.jpg" data-gallery="my-gallery"/>
+                <img src="images/poto_11-min.jpg" data-toggle="lightbox" data-src="/images/poto_11-min.jpg" data-gallery="my-gallery"/>
             </a>
             <a href="#">
                 <img src="https://statik.tempo.co/data/2022/06/02/id_1114297/1114297_720.jpg" data-toggle="lightbox" data-src="https://statik.tempo.co/data/2022/06/02/id_1114297/1114297_720.jpg" data-gallery="my-gallery"/>
@@ -157,37 +157,37 @@
                 <img src="https://www.ninna.id/wp-content/uploads/2022/01/goa-seribu-3.jpeg" data-toggle="lightbox" data-src="https://www.ninna.id/wp-content/uploads/2022/01/goa-seribu-3.jpeg" data-gallery="my-gallery"/>
             </a>
             <a href="#">
-                <img src="images/poto_2-min.jpg" data-toggle="lightbox" data-src="/goa-tapak-raja/images/poto_2-min.jpg" data-gallery="my-gallery"/>
+                <img src="images/poto_2-min.jpg" data-toggle="lightbox" data-src="/images/poto_2-min.jpg" data-gallery="my-gallery"/>
             </a>
             <a href="#">
-                <img src="images/poto_3-min.jpg" data-toggle="lightbox" data-src="/goa-tapak-raja/images/poto_3-min.jpg" data-gallery="my-gallery"/>
+                <img src="images/poto_3-min.jpg" data-toggle="lightbox" data-src="/images/poto_3-min.jpg" data-gallery="my-gallery"/>
             </a>
             <a href="#">
-                <img src="images/poto_4-min.JPG" data-toggle="lightbox" data-src="/goa-tapak-raja/images/poto_4-min.JPG" data-gallery="my-gallery"/>
+                <img src="images/poto_4-min.JPG" data-toggle="lightbox" data-src="/images/poto_4-min.JPG" data-gallery="my-gallery"/>
             </a>
             <a href="#">
-                <img src="images/poto_5-min.JPG" data-toggle="lightbox" data-src="/goa-tapak-raja/images/poto_5-min.JPG" data-gallery="my-gallery"/>
+                <img src="images/poto_5-min.JPG" data-toggle="lightbox" data-src="/images/poto_5-min.JPG" data-gallery="my-gallery"/>
             </a>
             <a href="#">
-                <img src="images/poto_6-min.JPG" data-toggle="lightbox" data-src="/goa-tapak-raja/images/poto_6-min.JPG" data-gallery="my-gallery"/>
+                <img src="images/poto_6-min.JPG" data-toggle="lightbox" data-src="/images/poto_6-min.JPG" data-gallery="my-gallery"/>
             </a>
             <a href="#">
-                <img src="images/poto_7-min.JPG" data-toggle="lightbox" data-src="/goa-tapak-raja/images/poto_7-min.JPG" data-gallery="my-gallery"/>
+                <img src="images/poto_7-min.JPG" data-toggle="lightbox" data-src="/images/poto_7-min.JPG" data-gallery="my-gallery"/>
             </a>
             <a href="#">
-                <img src="images/poto_8-min.JPG" data-toggle="lightbox" data-src="/goa-tapak-raja/images/poto_8-min.JPG" data-gallery="my-gallery"/>
+                <img src="images/poto_8-min.JPG" data-toggle="lightbox" data-src="/images/poto_8-min.JPG" data-gallery="my-gallery"/>
             </a>
             <a href="#">
-                <img src="images/poto_9-min.JPG" data-toggle="lightbox" data-src="/goa-tapak-raja/images/poto_9-min.JPG" data-gallery="my-gallery"/>
+                <img src="images/poto_9-min.JPG" data-toggle="lightbox" data-src="/images/poto_9-min.JPG" data-gallery="my-gallery"/>
             </a>
             <a href="#">
-                <img src="images/poto_10-min.jpg" data-toggle="lightbox" data-src="/goa-tapak-raja/images/poto_10-min.jpg" data-gallery="my-gallery"/>
+                <img src="images/poto_10-min.jpg" data-toggle="lightbox" data-src="/images/poto_10-min.jpg" data-gallery="my-gallery"/>
             </a>
             <a href="#">
-                <img src="images/poto_12-min.jpg" data-toggle="lightbox" data-src="/goa-tapak-raja/images/poto_12-min.jpg" data-gallery="my-gallery"/>
+                <img src="images/poto_12-min.jpg" data-toggle="lightbox" data-src="/images/poto_12-min.jpg" data-gallery="my-gallery"/>
             </a>
             <a href="#">
-                <img src="images/poto_13-min.jpg" data-toggle="lightbox" data-src="/goa-tapak-raja/images/poto_13-min.jpg" data-gallery="my-gallery"/>
+                <img src="images/poto_13-min.jpg" data-toggle="lightbox" data-src="/images/poto_13-min.jpg" data-gallery="my-gallery"/>
             </a>
         </div>
     </section>
