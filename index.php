@@ -21,7 +21,7 @@
     <header class="header">
         <div data-aos="fade-up" data-aos-duration="1200">
             <h2 class="title title-1">Selamat Datang Di</h2>
-            <h1 class="title title-2">Goa Tapak Raja</h1>
+            <h1 class="title title-2">Goa Tapak Raja Fatur</h1>
             <h2 class="title title-3">Desa Wonosari, Kec. Sepaku<br/>Kab. Penajam Paser Utara, Kaltim</h2>
         </div>
     </header>
