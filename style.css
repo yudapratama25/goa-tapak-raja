@@ -6,6 +6,16 @@ html, body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.btn-primary {
+    background-color: #FFAE4F;
+    border-color: #FFAE4F;
+}
+
+.btn-primary:hover {
+    background-color: #c57c27;
+    border-color: #c57c27;
+}
+
 .header {
     /* background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('header.jpg'); */
     background-position: center;
@@ -47,6 +57,10 @@ html, body {
     font-size: 2em;
     text-align: center;
     margin-bottom: 40px;
+}
+
+.title-section-lokasi {
+    margin-bottom: 20px !important;
 }
 
 .section-sejarah {

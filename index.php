@@ -12,6 +12,7 @@
     <link rel="icon" href="https://penajamkab.go.id/wp-content/uploads/2022/04/cropped-ppu-32x32.png" sizes="32x32" />
     <link rel="stylesheet" href="flexbin.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css' integrity='sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==' crossorigin='anonymous'/>
     <link href="vidbg/dist/vidbg.css" rel="stylesheet">
     
     <link rel="stylesheet" href="style.css">
@@ -127,7 +128,12 @@
     </section>
 
     <section class="content section-lokasi">
-        <h3 class="title-section">LOKASI</h3>
+        <h3 class="title-section title-section-lokasi">LOKASI</h3>
+        <div class="text-center mb-4">
+            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+               <i class="fas fa-eye"></i> Peta Geografis
+            </button>
+        </div>
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5618.362023068134!2d116.82083584992962!3d-0.9708431061103301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2df6b7ac0254a94b%3A0x304eddd9cc4c7a30!2sGua%20Batu%20Tapak%20Raja!5e1!3m2!1sid!2sid!4v1657714444663!5m2!1sid!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </section>
 
@@ -194,9 +200,27 @@
 
     <footer>
         <p class="text-center my-auto">
-            <span class="title-footer">&copy; Goa Tapak Raja</span> | Desa Wonosari, Kec. Sepaku, Kabupaten Penajam Paser Utara, Kalimantan Timur
+            <span class="title-footer"> &copy; Goa Tapak Raja </span> | KKN Regular UNMUL Kelompok Penajam 13
         </p>
     </footer>
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Peta Geografis</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <img src="images/peta_geografi.png" alt="Peta Ekowisata Goa Batu Tapak Raja" width="100%" class="rounded">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Tutup</button>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <script 
         src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
