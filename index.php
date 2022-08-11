@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Goa Tapak Raja</title>
+    <title>Goa Batu Tapak Raja</title>
     <link 
         href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" 
         rel="stylesheet"
@@ -12,17 +12,21 @@
     <link rel="icon" href="https://penajamkab.go.id/wp-content/uploads/2022/04/cropped-ppu-32x32.png" sizes="32x32" />
     <link rel="stylesheet" href="flexbin.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css' integrity='sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==' crossorigin='anonymous'/>
+    <link 
+        rel="stylesheet" 
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" 
+        integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" 
+        crossorigin="anonymous"/>
     <link href="vidbg/dist/vidbg.css" rel="stylesheet">
     
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=2">
 </head>
 <body>
 
     <header class="header">
         <div data-aos="fade-up" data-aos-duration="1200">
             <h2 class="title title-1">Selamat Datang Di</h2>
-            <h1 class="title title-2">Goa Tapak Raja</h1>
+            <h1 class="title title-2">Goa Batu Tapak Raja</h1>
             <h2 class="title title-3">Desa Wonosari, Kec. Sepaku<br/>Kab. Penajam Paser Utara, Kaltim</h2>
         </div>
     </header>
@@ -45,7 +49,6 @@
             </div>
             <div class="row align-items-center mt-3" data-aos="fade-right" data-aos-duration="1500">
                 <div class="col-lg-6 order-2 order-md-1 pt-3 pt-md-0">
-                    <!-- <h4 class="title-sejarah">Masa Penjajahan Belanda</h4> -->
                     <p class="desc-sejarah">
                         Pada tahun 1983, melalui program transmigrasi (program pemerintah untuk pemerataan penduduk. Masyarakat akan berpindah dari daerah padat, ke daerah yang jarang penduduk). Dulunya, desa Wono Sari masih masuk ke daerah Mentawir. Setelah program transmigrasi, seluruh masyarakat mendapatkan pembagian lahan dari pemerintah. Termasuk di sekitar Goa juga ada lahan pembagian masyarakat, sejak itulah masyarakat transmigrasi mengetahui keberadaan Goa Batu Tapak Raja. Karena dulu masih belum ada tempat wisata bagi warga desa yang terdekat sehingga Goa Batu Tapak Raja tersebut menjadi ramai dikunjungi oleh warga setempat. 
                     </p>
@@ -59,7 +62,6 @@
                     <img src="goa-3.jpg" alt="Image" class="img-sejarah shadow">
                 </div>
                 <div class="col-lg-6 pt-3 pt-md-0">
-                    <!-- <h4 class="title-sejarah">Penemuan Goa</h4> -->
                     <p class="desc-sejarah">
                         Pada tahun 2016, bapak Kasiyono bersama seluruh warga desa menjalankan agenda ‘Jumat Bersih’ yaitu kegiatan gotong royong sebagai upaya untuk mengembangkan wisata Goa Batu Tapak Raja tersebut. Pada tahun 2017, perangkat desa dan seluruh warga desa membuat perencanaan jalan menuju Goa Batu Tapak Raja dan terlaksana di tahun 2018, dan di tahun 2019 terkendala adanya pandemi covid–19. <br><br>
                         Pada tahun 2022 sebelum puasa dan setelah lebaran, perangkat desa dan seluruh warga desa mulai kembali bergotong royong untuk membuat event Goa Batu Tapak Raja yaitu tasyakuran 1000 ketupat dalam rangka pembukaan wisata Goa Batu Tapak Raja. Tasyakuran tersebut dilaksanakan pada tanggal 28 Mei 2022. Seluruh persiapan untuk pembukaan wisata Goa Batu Tapak Raja dengan cara swadaya dari masyarakat, tidak ada dana anggaran dari desa.
@@ -98,9 +100,8 @@
             </div>
             <div class="row align-items-center mt-3" data-aos="fade-right" data-aos-duration="1500">
                 <div class="col-lg-6 order-2 order-md-1 pt-3 pt-md-0">
-                    <!-- <h4 class="title-sejarah">Masa Penjajahan Belanda</h4> -->
                     <p class="desc-sejarah">
-                        Yang bertanggung jawab penuh atas perawatan dan pengelolaan Goa Batu Tapak Raja ialah  Kelompok Sadar Wisata. Dan seluruh perangkat desa menjadi pembina dari Kelompok Sadar Wisata tersebut. Serta seluruh warga desa Wono Sari juga ikut serta dalam bertanggung jawab atas perawatan dan pengelolaan Goa Batu Tapak Raja
+                        Yang bertanggung jawab penuh atas perawatan dan pengelolaan Goa Batu Tapak Raja ialah Kelompok Sadar Wisata & seluruh warga desa Wono Sari. Dan seluruh perangkat desa menjadi pembina dari Kelompok Sadar Wisata tersebut.
                         <br><br>
                         Setelah bermusyawarah dengan seluruh warga desa Wono Sari, kedepannya akan dikenakan tarif untuk pengunjung yang ingin berkunjung ke Goa Batu Tapak Raja dengan rincian sebagai berikut :
                     </p>
@@ -116,14 +117,15 @@
                         </li>
                     </ul>
                     <p class="desc-sejarah">
-                        Dan seluruh dana pemasukan dari para pengunjung akan dibagi 2. 50% masuk ke dana kas Kelompok Sadar Wisata dan 50% nya lagi ke warga etempat yang membantu pengelolaan dari goa tersebut. 
+                        Dan seluruh dana pemasukan dari para pengunjung akan dibagi 2. 50% masuk ke dana kas Kelompok Sadar Wisata dan 50% nya lagi ke warga setempat yang membantu pengelolaan dari goa tersebut.
+                        <br><br>
+                        Adapun larangan yang perlu diperhatikan oleh para pengunjung yaitu wanita yang sedang mengalami masa haid/datang bulan tidak diperkenankan untuk masuk ke wilayah goa & para pengunjung juga wajib menjaga lisan selama berada di wilayah goa. 
                     </p>
                 </div>
                 <div class="col-lg-6 text-end order-1 order-md-2">
                     <img src="goa-5.jpg" alt="Image" class="img-sejarah shadow">
                 </div>
             </div>
-            
         </div>
     </section>
 
